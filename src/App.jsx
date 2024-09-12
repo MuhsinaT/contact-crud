@@ -3,7 +3,7 @@ import './App.css'
 import Header from './Components/Header'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './Components/Home';
-import Contact from './Components/contact';
+import Contact from './Components/Contact';
 
 import { Route,Routes } from 'react-router-dom';
 import { ToastContainer} from 'react-toastify';
