@@ -1,0 +1,14 @@
+h3{
+    font-size: 1.6rem;
+    margin: 0px 10px;
+    font-weight: 800;
+    color: darkgreen;
+}
+i{
+    color: #024c02;
+    margin-top: 6px;
+}
+.navbar{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(4, 80, 3, 0.19);
+
+}
